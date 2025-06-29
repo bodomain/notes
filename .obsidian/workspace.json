@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHubCLI.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHubCLI"
+              "title": "README"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "75f53f457ac041ae",
   "lastOpenFiles": [
+    "README.md~",
+    "GitHubCLI.md",
     "README.md",
     "Daily Notes/2025-06-29.md",
-    "GitHubCLI.md",
     "2025-06-29.md",
     "Research/DWD data.md",
     "Daily Notes/2025-06-27.md",
@@ -196,7 +197,6 @@
     "linux/Bluetooth from the CLI.md",
     "linux/New Folder in a Folder",
     "New Folder/injektiv.md",
-    "linux/django/django-architecture.md",
     "New Folder",
     "Pasted image 20250530182253.png",
     "Pasted image 20250526181712.png",
