@@ -1,3 +1,3 @@
-My personal Notes about everything and nothing.
+My personal notes about everything and nothing.
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2025-06-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-06-29"
             }
           }
         ]
@@ -165,12 +165,12 @@
   },
   "active": "75f53f457ac041ae",
   "lastOpenFiles": [
+    "Research/DWD data.md",
+    "README.md",
     "README.md~",
     "GitHubCLI.md",
-    "README.md",
     "Daily Notes/2025-06-29.md",
     "2025-06-29.md",
-    "Research/DWD data.md",
     "Daily Notes/2025-06-27.md",
     "test.md",
     "AI Augmentation",
@@ -203,7 +203,6 @@
     "Gemini_Generated_Image_cl876pcl876pcl87.png",
     "Gemini_Generated_Image_cl876pcl876pcl87.png.crdownload",
     "Linux",
-    "linux/django",
     "Pasted image 20241029172234.png",
     "Pasted image 20240816173624.png",
     "Pasted image 20240816173301.png"
