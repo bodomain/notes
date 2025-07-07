@@ -41,11 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Linux Administration Spickzettel.md",
+=======
+                "file": "2025-06-30.md",
+>>>>>>> 7ff80ac6d52712e14d9774f283a68ba0bf49bc62
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Linux Administration Spickzettel"
             }
           },
@@ -75,6 +80,9 @@
               },
               "icon": "lucide-file",
               "title": "What are AI Agents?"
+=======
+              "title": "2025-06-30"
+>>>>>>> 7ff80ac6d52712e14d9774f283a68ba0bf49bc62
             }
           }
         ],
@@ -223,6 +231,7 @@
   "active": "538c5d5dcaf2d01f",
   "lastOpenFiles": [
     "AI Augmentation/Coding agent vs agent mode in GitHub Copilot.md",
+<<<<<<< HEAD
     "Agentic Ai/What are AI Agents?.md",
     "nmcli -assign static ip.md",
     "Agentic Ai",
@@ -230,9 +239,14 @@
     "Linux Administration Spickzettel.md",
     "Linux/Connecting a Bluetooth Device via Command Line Interface (CLI).md",
     "My home lab/Untitled.md",
+=======
+    "2025-06-30.md",
+    "My home lab/Untitled.md",
+    "Linux Administration.md",
+    "Untitled",
+>>>>>>> 7ff80ac6d52712e14d9774f283a68ba0bf49bc62
     "DevOps/GitHubCLI.md",
     "My home lab",
-    "2025-06-30.md",
     "Daily Notes/2025-06-26.md",
     "Daily Notes/2025-06-29.md",
     "Daily Notes/2025-06-27.md",
