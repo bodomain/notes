@@ -13,5 +13,12 @@
 ## Grundlegende Systemkonfiguration verwalten
 
 - Systemd-Dienststatus abrufen
--
+- Verwalten von systemd-Diensten
+```bash
+sudo systemctl list-unit-files -t service
+sudo systemctl status bluetooth.service 
+sudo systemctl stop bluetooth.service 
+etc.
+```
+
 
