@@ -1,0 +1,1 @@
+Brightness control: decrease`brightnessctl s 30%-` increase `brightnessctl s +10%` 
