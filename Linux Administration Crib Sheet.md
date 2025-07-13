@@ -26,7 +26,7 @@ Systemd ist ein leistungsstarkes System- und Diensteverwaltungstool unter Linux.
 - **Dienst stoppen**:  
     Beendet den laufenden `bluetooth.service`:
     ```bash
-    sudo systemctl stop bluetooth.service
+	 sudo systemctl stop bluetooth.service
     ```
 - **Laufende Einheiten filtern**:  
     Überprüft, ob der `bluetooth.service` in der Liste der aktiven Einheiten vorhanden ist:
@@ -39,7 +39,15 @@ Systemd ist ein leistungsstarkes System- und Diensteverwaltungstool unter Linux.
     sudo systemctl is-active bluetooth
     ```
 
-**Hinweis**: Weitere nützliche Befehle sind `start`, `enable`, `disable`, und `restart`, um Dienste zu starten, automatisch zu aktivieren/deaktivieren oder neu zu starten.
+**Hinweis**: Weitere nützliche Befehle sind `start`, `enable`, `disable`, und `restart`, um Dienste zu starten, automatisch zu aktivie￼￼￼
+sudo ln -sf /usr/bin/nvim /usr/bin/vi
+￼￼
+
+`-s`: symbolic link
+￼￼-f￼￼: force overwrite if /usr/bin/vi already exists
+Result: typing vi opens nvim
+
+ren/deaktivieren oder neu zu starten.
 ## Einmalige Aufgaben mit `at` planen
 Das `at`-Kommando ermöglicht die Planung von einmaligen Aufgaben zu einem bestimmten Zeitpunkt. Im Folgenden ein Beispiel zur Planung und Verwaltung:
 - **Aufgabe planen**:  
@@ -55,4 +63,31 @@ Das `at`-Kommando ermöglicht die Planung von einmaligen Aufgaben zu einem besti
     atq
     ```
 **Hinweis**: Verwenden Sie `atrm <Job-ID>`, um geplante Aufgaben zu löschen. Stellen Sie sicher, dass der `atd`-Dienst läuft (`sudo systemctl status atd`).
+
+## Wiederkehrende Aufgaben mit `cron`planen
+- Möglichkeit zu verhindern, dass eine Person mit cron arbeiten kann.....
+- Job anlegen:
+(Redirection won't work without specifying a shell)
+```
+55 17 * * * root /bin/bash -c 'ls /etc > /tmp/etc'
+```
+- Mehr Informationen: 
+```man 5 crontab```
+- Benutzer cron: 
+```
+crontab -e
+```
+Öffnet editor
+```
+*/5 * * * * echo "Hello World" > /tmp/hello
+```
+Schreibt alle 5 Minuten Datei ....
+```
+crontab -l
+```
+Listed auf
+```
+crontab -r
+```
+Löscht crontab
 
