@@ -3,7 +3,7 @@ Unterschiede und Gemeinsamkeiten zwischen einem 2-3-Baum und einem B-Baum: Beide
 
 **2-3-Baum**
 
-*   **Spezialfall:** Ein 2-3-Baum ist eine *spezielle Art* von B-Baum.
+*  **Spezialfall:** Ein 2-3-Baum ist eine *spezielle Art* von B-Baum.
 *   **Knotenstruktur:** Jeder Knoten in einem 2-3-Baum kann entweder ein 2-Knoten oder ein 3-Knoten sein:
     *   **2-Knoten:** Enthält ein Datenelement (einen Schlüssel) und hat zwei Kindknoten (einen linken und einen rechten). Alle Schlüssel im linken Unterbaum sind kleiner als der Schlüssel im Knoten, und alle Schlüssel im rechten Unterbaum sind größer.
     *   **3-Knoten:** Enthält zwei Datenelemente (zwei Schlüssel) und hat drei Kindknoten. Alle Schlüssel im linken Unterbaum sind kleiner als der erste Schlüssel, alle Schlüssel im mittleren Unterbaum liegen zwischen den beiden Schlüsseln, und alle Schlüssel im rechten Unterbaum sind größer als der zweite Schlüssel.
@@ -53,4 +53,4 @@ Datenbanken speichern riesige Datenmengen auf Festplatten. Festplattenzugriffe s
 2.  **Indexierung:** Die Schlüssel in den Knoten dienen als Index.  Sie helfen, den Suchraum schnell einzugrenzen, sodass man nicht die gesamte Festplatte durchsuchen muss.
 3.  **Blockorientierung:** Die Ordnung des B-Baums wird oft so gewählt, dass ein Knoten in einen Festplattenblock passt. Das bedeutet, dass das Lesen eines Knotens in einem einzigen Plattenzugriff erfolgen kann.
 
-Zusammenfassend lässt sich sagen, dass 2-3-Bäume ein gutes Lernwerkzeug sind, um die Grundlagen von balancierten Suchbäumen zu verstehen. B-Bäume sind jedoch die leistungsfähigere und flexiblere Lösung, insbesondere für Anwendungen, die große Datenmengen auf Festplatten speichern und verarbeiten.
+Zusammenfassend lässt sich sagen, dass 2-3-Bäume ein gutes Lernwerkzeug sind, um die Grundlagen von balancierten Suchbäumen zu verstehen. B-Bäume sind jedoch die leistungsfähigere und flexiblere Lösung, insbesondere für Anwendungen, die große Datenmengen auf Festplatten speichern und verarbeiten.]]
