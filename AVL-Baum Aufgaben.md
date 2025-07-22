@@ -197,16 +197,18 @@ Zuletzt wird das Element **9** entfernt. Dies führt erneut zu einer Verletzung 
 
     Der Knoten 22 wird zur neuen Wurzel des Baumes.
 
-    ````
-      ```mermaid
-    ````
+```mermaid
+graph TD
+    E(22) --> B(13)
+    E --> A(26)
+    B --> D(8)
+    A --> H(23)
+    A --> C(33)
 
-    graph TD
-    E(22) --\> B(13)
-    E --\> A(26)
-    B --\> D(8)
-    A --\> H(23)
-    A --\> C(33)
+```
 
-    ```
-    ``
+
+
+
+
+
