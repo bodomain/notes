@@ -1,6 +1,6 @@
 Kl 8/23 Hashing Div./QS
 
-k![[Pasted image 20250722152554.png]]
+![[Pasted image 20250722152554.png]]
 
 
 
