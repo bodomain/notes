@@ -4,151 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "954d522f59b44f6b",
+        "id": "2694d8cad256afd6",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4ea72ec27c98f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "02b918ceff31cb99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Administration Crib Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux Administration Crib Sheet"
-            }
-          },
-          {
-            "id": "8dad39665bed355f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "link -symlink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "link -symlink"
-            }
-          },
-          {
-            "id": "fc4ed822c32a4bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scrcpy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scrcpy"
-            }
-          },
-          {
-            "id": "9cf9b84d21359b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-16"
-            }
-          },
-          {
-            "id": "2903d3582a488aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-21"
-            }
-          },
-          {
-            "id": "98bc96f06e7f1af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binären Baum rekonstruieren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binären Baum rekonstruieren"
-            }
-          },
-          {
-            "id": "6dbb31092a2e0d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Einfache Implementierungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Einfache Implementierungen"
-            }
-          },
-          {
-            "id": "0bafdc5efb683a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hash - Problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hash - Problems"
-            }
-          },
-          {
-            "id": "ca24eda5df9549e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AVL-Baum Aufgaben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AVL-Baum Aufgaben"
-            }
-          },
-          {
-            "id": "cf94285ca5f22186",
+            "id": "fd0025bb7c2509f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,20 +22,21 @@
             }
           },
           {
-            "id": "b5511e9ba2bd85e1",
+            "id": "3091996229b2f479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sway cheatsheet.md",
+                "file": "Course notes/DSA/KE1/KE 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sway cheatsheet"
+              "title": "KE 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 437.5
   },
   "right": {
     "id": "a585d5cd245da416",
@@ -322,25 +183,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd4ea72ec27c98f0",
+  "active": "3091996229b2f479",
   "lastOpenFiles": [
     "test.md",
-    "KE 1.md",
+    "Pasted image 20250725155524.png",
+    "Untitled.md",
     "Course notes/DSA/KE1/KE 1.md",
+    "Assets/Pasted image 20250722152554.png",
     "Course notes/DSA/KE1",
     "Course notes/DSA",
-    "Course notes",
-    "Stabilität von Sortierverfahren.md",
-    "RadixSort.md",
-    "Untitled.md",
-    "Pasted image 20250725155524.png",
-    "AVL-Baum Aufgaben.md",
-    "QuickSort.md",
-    "Jupyter Lab for Terminals.md",
+    "Hash - Problems.md",
     "Heap Aufgaben.md",
-    "Einfache Sortierverfahren.md",
-    "Devide and Conquer Mehods.md",
-    "Assets/Pasted image 20250724153147.png",
+    "Einfache Implementierungen.md",
+    "Binären Baum rekonstruieren.md",
+    "2025-07-21.md",
+    "2025-07-16.md",
+    "scrcpy.md",
+    "link -symlink.md",
+    "Linux Administration Crib Sheet.md",
+    "Jupyter Lab for Terminals.md",
+    "QuickSort.md",
+    "RadixSort.md",
+    "React.md",
+    "nmcli -assign static ip.md",
+    "AVL-Baum Aufgaben.md",
+    "Research/DWD data.md",
     "Assets/Pasted image 20250724095510.png",
     "Assets/Pasted image 20250724095446.png",
     "Assets/Pasted image 20250724095432.png",
@@ -349,20 +216,13 @@
     "Assets/Pasted image 20250724095348 1.png",
     "Assets/Pasted image 20250724094047.png",
     "Assets/Pasted image 20250724094045.png",
-    "Assets",
-    "Daily Notes/2025-06-26.md",
-    "Hash - Problems.md",
-    "Einfache Implementierungen.md",
-    "Binären Baum rekonstruieren.md",
-    "2025-07-21.md",
-    "B-Baum.md",
-    "2025-07-16.md",
     "yt-dlp.md",
-    "Linux Administration Crib Sheet.md",
-    "link -symlink.md",
-    "scrcpy.md",
-    "Sway cheatsheet.md",
-    "React.md",
-    "Daily Notes/2025-06-27.md"
+    "Assets",
+    "Einfache Sortierverfahren.md",
+    "Devide and Conquer Mehods.md",
+    "Stabilität von Sortierverfahren.md",
+    "Daily Notes/2025-06-26.md",
+    "B-Baum.md",
+    "Sway cheatsheet.md"
   ]
 }
