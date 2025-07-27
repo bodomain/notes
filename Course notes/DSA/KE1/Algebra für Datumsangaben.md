@@ -153,7 +153,7 @@ toJulian(t, m, j), wobei (t, m, j) = date
 ---
 
 Wenn du möchtest, kann ich die Lösung auch in LaTeX-Format bringen oder in Tabellenform.
-
+**
 -            : Date × Date → Duration
 =            : Date × Date → Bool
 =            : Duration × Duration → Bool
