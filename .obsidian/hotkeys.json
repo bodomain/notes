@@ -63,5 +63,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }
