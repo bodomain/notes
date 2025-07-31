@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course notes/DSA/KE1/Algebra für Datumsangaben.md",
+                "file": "Course notes/DSA/Algebra für Datumsangaben.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "Course notes/DSA/KE3/EA3/ea30423.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux"
+              "title": "ea30423"
             }
           }
         ],
@@ -199,8 +199,17 @@
   },
   "active": "58c78e2383681acb",
   "lastOpenFiles": [
-    "Course notes/DSA/KE1/Algebra für Datumsangaben.md",
+    "Pasted image 20250728160820.png",
+    "Pasted image 20250728125419.png",
+    "DevOps/GitHubCLI.md",
+    "Course notes/DSA/KE3/EA3/ea30423.md",
+    "Pasted image 20250728105754.png",
+    "Pasted image 20250728105727.png",
+    "Pasted image 20250728092413.png",
+    "Course notes/DSA/KE 1.md",
+    "Course notes/DSA/Algebra für Datumsangaben.md",
     "tmux.md",
+    "Course notes/DSA/KE3/EA3",
     "Pasted image 20250727152023.png",
     "Pasted image 20250727152017.png",
     "Pasted image 20250727151905.png",
@@ -214,11 +223,8 @@
     "Assets/Pasted image 20250722182709.png",
     "2025-06-30.md",
     "2025-07-26.md",
-    "Course notes/DSA/KE1/KE 1.md",
     "test.md",
-    "Pasted image 20250725155524.png",
-    "Assets/Pasted image 20250722152554.png",
-    "Course notes/DSA/KE1",
+    "Course notes/DSA/KE3",
     "Course notes/DSA",
     "Heap Aufgaben.md",
     "Einfache Implementierungen.md",
@@ -232,11 +238,6 @@
     "QuickSort.md",
     "RadixSort.md",
     "React.md",
-    "nmcli -assign static ip.md",
-    "AVL-Baum Aufgaben.md",
-    "Research/DWD data.md",
-    "Assets/Pasted image 20250724095510.png",
-    "Assets/Pasted image 20250724095446.png",
     "Assets"
   ]
 }

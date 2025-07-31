@@ -40,7 +40,7 @@ CTRL + B &	kill window
 CTRL + B W	list windows
 ## tmux panes
 * _ panes are sections of windows that have been split into different screens — just like the panes of a real window!
-
+****
 * _ key bindings	
 CTRL + B %	vertical split
 CTRL + B “	horizontal split
