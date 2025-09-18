@@ -3,5 +3,6 @@
   "spellcheck": true,
   "readableLineLength": false,
   "autoPairMarkdown": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "promptDelete": false
 }
