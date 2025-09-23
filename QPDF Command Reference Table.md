@@ -1,4 +1,4 @@
-| Action                 | Command                                                     | Explanation                                                                                                                                                |
+| -Action                | Command                                                     | Explanation                                                                                                                                                |
 | :--------------------- | :---------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Merge PDFs** 📂      | `qpdf --empty --pages file1.pdf file2.pdf -- merged.pdf`    | Creates a new, empty PDF and adds all pages from `file1.pdf` and `file2.pdf` in that order. The `--` is essential to separate inputs from the output file. |
 | **Extract Pages** ✂️   | `qpdf input.pdf --pages . 1-10 -- extracted.pdf`            | Creates a new PDF containing only pages 1 through 10 from the source file. The `.` is a placeholder for the main input file (`input.pdf`).                 |
@@ -12,3 +12,4 @@ qpdf input.pdf --pages . 240-254 -- output.pdf
 
 
 
+-n

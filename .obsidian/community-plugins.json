@@ -1,4 +1,5 @@
 [
   "automatic-table-of-contents",
-  "chatgpt-md"
+  "chatgpt-md",
+  "obsidian-local-rest-api"
 ]
