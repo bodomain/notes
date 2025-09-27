@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -324,8 +324,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb0619673df39655",
+  "active": "6431d6229bc1c2eb",
   "lastOpenFiles": [
+    "React.md",
+    "Linux/Connecting a Bluetooth Device via Command Line Interface (CLI).md",
+    "Arch audio.md",
     "QPDF Command Reference Table.md",
     "Local REST API.md",
     "2025-09-18.md",
@@ -339,7 +342,6 @@
     "DevOps/GitHubCLI.md",
     "Untitled.md",
     "data.pdf",
-    "Linux/Connecting a Bluetooth Device via Command Line Interface (CLI).md",
     "Agentic Ai/What are AI Agents?.md",
     "AI Engineering.md",
     "Pasted image 20250910174724.png",
@@ -357,8 +359,6 @@
     "Pasted image 20250823164051.png",
     "Pasted image 20250823163834.png",
     "2025-08-28.md",
-    "Find Google API Keys.md",
-    "GeminiCLI fixing Gpt-2 from scratch.md",
     "Assets/Pasted image 20250722152554.png",
     "Assets/Pasted image 20250723203655 1.png",
     "Assets/Pasted image 20250723203655.png",
