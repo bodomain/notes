@@ -89,4 +89,4 @@ This guide outlines the steps to connect a Bluetooth device using the `bluetooth
 
 - The MAC address `00:11:22:33:44:55` is an example. Replace it with the actual MAC address of your device.
 - To list previously paired devices, use `devices` within `bluetoothctl`.
-- For persistent connections, ensure the Bluetooth service starts on boot (`sudo systemctl enable bluetooth`).
+- For persistent connections, ensure the Bluetooth service starts on boot (`sudo systemctl enable bluetooth`).gh LiteLLM's native callback system:
