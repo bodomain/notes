@@ -129,7 +129,7 @@
    1         if (fabs(expected_sum - sum) > 1e-4) {
    2             fprintf(stderr, "expected: %.24f (%a), got %.24f (%a)\\n",
      expected_sum, expected_sum, sum, sum);
-   3             abort();
+**n**   3             abort();
    4         }
 
   Should I apply this change?
