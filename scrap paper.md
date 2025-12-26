@@ -4,4 +4,4 @@ $$\int_a^b \sqrt{ 1 -  x²} \, dx$$
 
 $$\int_{a}^{x} \cos(at) \sin(bt) \, dt$$
 
-$$\cap_{n=1}^\infty(a-(1/n),a+(1/n))=a$$
+D
