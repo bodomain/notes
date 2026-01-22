@@ -27,12 +27,12 @@ Das ist eine hervorragende Zusammenfassung der wichtigsten Konzepte der Maßtheo
     Nutze die Abschätzung $|\sin u| \le |u|$.
     
     $$|f_n(x)| = \left| \frac{n \sin(x/n)}{x(1+x^2)} \right| \le \frac{n \cdot (x/n)}{x(1+x^2)} = \frac{1}{1+x^2} =: g(x)$$
-    
-4. **Integrierbarkeit prüfen:**
+    n
+1. **Integrierbarkeit prüfen:**
     
     $\int_0^\infty \frac{1}{1+x^2} \, dx = [\arctan x]_0^\infty = \frac{\pi}{2} < \infty$. Also $g \in L^1$.
     
-5. **Anwendung DCT:**
+2. **Anwendung DCT:**
     
     Da alle Bedingungen erfüllt sind, dürfen wir Limes und Integral vertauschen:
     
