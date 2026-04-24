@@ -1,4 +1,4 @@
-# Enable vim-style keybindings
+n# Enable vim-style keybindings
 ```
 set -o vi
 ```
