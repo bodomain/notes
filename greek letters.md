@@ -1,2 +1,2 @@
 
-![[Pasted image 20251224161531.png]]sd
+![[Pasted image 20251224161531.png]]
