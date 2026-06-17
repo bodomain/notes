@@ -14,3 +14,6 @@ Mit $∥f_n​−f∥_2^2$ rechnen um dann$∥f_n​−f∥_2$ zu erhalten ist e
 
 
 In jedem Intervall $(\frac{\pi}{2} + k\pi, \frac{3\pi}{2} + k\pi)$ läuft der Tangens von $-\infty$ bis $+\infty$.
+
+
+
