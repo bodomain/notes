@@ -17,3 +17,4 @@ In jedem Intervall $(\frac{\pi}{2} + k\pi, \frac{3\pi}{2} + k\pi)$ läuft der Ta
 
 
 
+$\sum	v_i	^2$
