@@ -1,2 +1,2 @@
 - Formal zeigen, dass Direichlet-Funktion nicht Rieman-Integrierbar ist
--  
+-  Paper: What was the frontend stuff all about? (layers of abstraction, obsolete)
