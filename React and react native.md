@@ -17,7 +17,9 @@ npx tsc --init
 npx tsc hello.ts --ignoreConfig
 node hello.js
 
-
+run directly:
+npm install --save-dev tsx
+npx tsx hello.ts
 
 
 
