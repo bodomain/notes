@@ -5,6 +5,21 @@ Node -runtime
 npm -package manager
 
 
+-------------------------------
+typescript:
+mkdir ~/typescript-test
+cd ~/typescript-test
+
+npm init -y
+npm install --save-dev typescript
+npx tsc --init
+
+npx tsc hello.ts --ignoreConfig
+node hello.js
+
+
+
+
 
 
 
