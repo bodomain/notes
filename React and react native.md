@@ -21,6 +21,13 @@ run directly:
 npm install --save-dev tsx
 npx tsx hello.ts
 
+A useful workflow:
+# Check types
+npx tsc --noEmit
+
+# Execute
+npx tsx hello.ts
+
 
 
 
