@@ -30,5 +30,9 @@ npx tsx hello.ts
 
 
 
+npx kill-port 5173
+
+
+
 
 
