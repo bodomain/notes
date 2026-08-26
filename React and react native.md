@@ -4,7 +4,6 @@ npm create vite@latest setting-up-typescript -- --template react-ts
 Node -runtime
 npm -package manager
 
-
 -------------------------------
 typescript:
 mkdir ~/typescript-test
@@ -21,18 +20,18 @@ run directly:
 npm install --save-dev tsx
 npx tsx hello.ts
 
-A useful workflow:
-# Check types
+### A useful workflow:
+Check types:
 npx tsc --noEmit
 
-# Execute
+Execute:
 npx tsx hello.ts
 
 
 
 npx kill-port 5173
 
-
-
+## Next.js
+npx create-next-app@latest
 
 
