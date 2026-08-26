@@ -1,4 +1,14 @@
-## Testumgebung einrichten
+
+
+
+lscpu | grep virtualization
+
+
+
+
+
+
+
 
 
 ## Systemstatistiken erfassen und auswerten
