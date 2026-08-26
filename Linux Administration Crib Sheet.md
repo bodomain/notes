@@ -2,6 +2,7 @@
 
 
 lscpu | grep virtualization
+pkill -9 obs
 
 
 
