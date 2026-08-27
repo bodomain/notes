@@ -37,3 +37,6 @@ npx create-next-app@latest
 
 ## Tests
 npm install -D vitest
+
+https://supabase.com/
+
