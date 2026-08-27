@@ -35,3 +35,5 @@ npx kill-port 5173
 npx create-next-app@latest
 
 
+## Tests
+npm install -D vitest
