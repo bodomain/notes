@@ -40,3 +40,5 @@ npm install -D vitest
 
 https://supabase.com/
 
+## react native
+npx create-expo-app@latest --template
