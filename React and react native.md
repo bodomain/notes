@@ -35,3 +35,6 @@ npm --version
 npx create-expo-app@latest my-app --template blank
 
 npm start -- --tunnel
+
+
+npx expo install react-native-safe-area-context
