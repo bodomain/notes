@@ -49,3 +49,4 @@ hash -r
 npm --version
 
 npx create-expo-app@latest my-app --template default
+npm start -- --tunnel
