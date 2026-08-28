@@ -2,6 +2,14 @@
 
 
 lscpu | grep virtualization
+
+
+```
+ps aux | grep agent-browser
+pkill -TERM -f '/home/user/.agent-browser/'
+```
+
+
 pkill -9 obs
 
 
