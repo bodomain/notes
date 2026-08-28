@@ -28,7 +28,10 @@ https://supabase.com/
 react native
 "....the installed version is for SDK 54"
 
-npm install --global npm@11 hash -r npm --version
+npm install --global npm@11
+hash -r
+npm --version
 
+npx create-expo-app@latest my-app --template blank
 
 npm start -- --tunnel
