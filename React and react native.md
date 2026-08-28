@@ -42,3 +42,5 @@ https://supabase.com/
 
 ## react native
 npx create-expo-app@latest --template
+
+"....the installed version is for SDK 54"
