@@ -41,6 +41,11 @@ npm install -D vitest
 https://supabase.com/
 
 ## react native
-npx create-expo-app@latest --template
 
 "....the installed version is for SDK 54"
+
+npm install --global npm@11
+hash -r
+npm --version
+
+npx create-expo-app@latest my-app --template default
