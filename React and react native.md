@@ -2,7 +2,7 @@ npm create vite@latest my-react-app -- --template react npm create vite@latest s
 
 Node -runtime npm -package manager
 
-## Type
+## Typescript
 typescript: mkdir ~/typescript-test cd ~/typescript-test
 
 npm init -y npm install --save-dev typescript npx tsc --init
@@ -26,7 +26,7 @@ npm install -D vitest
 
 https://supabase.com/
 
-react native
+## React native
 "....the installed version is for SDK 54"
 
 npm install --global npm@11
