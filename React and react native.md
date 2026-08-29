@@ -2,6 +2,7 @@ npm create vite@latest my-react-app -- --template react npm create vite@latest s
 
 Node -runtime npm -package manager
 
+## Type
 typescript: mkdir ~/typescript-test cd ~/typescript-test
 
 npm init -y npm install --save-dev typescript npx tsc --init
