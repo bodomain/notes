@@ -4,3 +4,6 @@
 
 
 docker compose up --build -d
+
+Shut down all:
+docker stop $(docker ps -q)
