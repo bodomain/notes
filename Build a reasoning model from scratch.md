@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=Kh9mqTzjuEQ
 -  Reminder: check ahead of AI components of a coding agent.
 - In our days, LLMs can behave more like a conventional model or behave like a reasoning model. There are not two distinct entities.
 - Reasoning refers to a model producing intermediate steps before producing a final answer.
+- Think of pretraining as raw language prediction.
+- 
