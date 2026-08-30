@@ -4,7 +4,4 @@ https://www.youtube.com/watch?v=Kh9mqTzjuEQ
 - Reasoning models are the engine of harnesses.
 - Looking at code is worth a thousand images.
 - Reminder: look at Rasckas how Claude's text water marking works
--  
-
-
-
+-  Reminder: check ahead of AI components of a coding agent.
