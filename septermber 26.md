@@ -4,3 +4,4 @@
  - Build automatic paper-to-backtest-skill or app
  - Input-Output-Analyse
  - Next JS tutorial
+ - Task, become proficient with GitHub.
