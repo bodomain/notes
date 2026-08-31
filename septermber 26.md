@@ -1,0 +1,6 @@
+ - Linux internals
+ - Build the mobile app, for Text Prüfung with React Native.
+ - Build a reasoning model from scratch
+ - Build automatic paper-to-backtest-skill or app
+ - Input-Output-Analyse
+ - Next JS tutorial
