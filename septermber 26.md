@@ -1,5 +1,5 @@
  - Linux internals
- - Build the mobile app, for Text Prüfung with React Native.
+ - Expansion of the text verification app for mobile devices (react native)
  - Build a reasoning model from scratch
  - Build automatic paper-to-backtest-skill or app
  - Input-Output-Analyse
