@@ -1,4 +1,7 @@
 
+curl -fsSL https://opencode.ai/v2/install | bash
+
+
 ## voice prompting !
 https://hex.kitlangton.com/
 
