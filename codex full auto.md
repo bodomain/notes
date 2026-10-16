@@ -1,3 +1,16 @@
+
+## .codex config.toml:
+(ganz an den Anfang)
+
+sandbox_mode = "danger-full-access"
+approval_policy = "never"
+
+
+
+---------------------
+
+
+
 Use the dangerous bypass mode:
 
 ```bash
