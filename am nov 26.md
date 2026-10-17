@@ -1,1 +1,5 @@
-- 
+- https://www.amazon.de/-/en/FALKEN-Intensive-Folders-Strong-Green/dp/B0714PKZZT/ref=sr_1_27?content-id=amzn1.sym.801cfa10-3589-4225-ad5b-c367a55071d3%3Aamzn1.sym.801cfa10-3589-4225-ad5b-c367a55071d3&dib=eyJ2IjoiMSJ9.y_OAmtt-pwN9IN4d568OlQrCgdHiBxF_hX5Eqbwylte9dyoStDx3QkmArYniLHPMFvNC_eykWPgWirwf5Tbj9hpeCi60zp7RuGwZgTv48eRPsVEg9JZe6OC3YhouDoJBvRz41MmI2R8-w3H4f5yuc1JG8Y71vFbNYpEV7KlIQqFb0JNmaoKJDm1T1xAv0agX2QLQbhGy6cmtac5wIA6vqlVnTstRXR82TkFfEEkdXyIB8lSVb4xyIslJFP0b0gJpZMnhtMJM6cJyX6AFj8ZJJegbwaXQco-hKWQVYGM4X8c.SC58QTEA-7C0QImhmveCgV1c3JcIcCi8iTs1oQosQwY&dib_tag=se&keywords=schnellhefter%2Bpappe&pd_rd_r=842dd8d9-9ce9-421f-8b29-7a02b518d7af&pd_rd_w=wnWCv&pd_rd_wg=4MQyp&qid=1792230424&sr=8-27&th=1
+ 
+- https://www.amazon.de/-/en/Pigna-80-Sheets-21x29-7-Reinforcement/dp/B07B8RK7GL/ref=sr_1_9?crid=2SQOQIN03P4KD&dib=eyJ2IjoiMSJ9.HCD9aY_WT_Phl9WotRoWJ8EVfSi2aQcF-0bORHCG6AOYYua_Eq-uMJ_PmUCJg4p1c3wEqnT9y9YHp-ZYiAum9jxBicQ8xc08LRFuvRCD39r9uuouRioEkrswlfTxZW9sOmpX5KcfxPIL0p5JuoeCAop_on0tZDXYgutcHUtB2kQCLmHtYAV92SkWilUj2RwMNbJS72X1VxY2wzXHFZqXeKGVjpt_rjTXPbSDWnt18l-TEQB3gKeZhZ5YBJBxWnBU_y5AzaMROTnG1CShKCiM1-kmsl3Y-KTje9jP9lPBzow.VZtl4qdt1bRy9Oa7LbvhVkFYQkOL7VVpufl_1J_WK4E&dib_tag=se&keywords=papier%2Bkariert%2Ba4&qid=1792230509&sprefix=papier%2Bkari%2Caps%2C202&sr=8-9&th=1
+
+
