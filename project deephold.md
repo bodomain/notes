@@ -3,3 +3,6 @@
 
 
 Database 
+
+Email:    admin@deephold.dev
+Password: deephold123
