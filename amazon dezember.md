@@ -1,4 +1,5 @@
 - marker
 - creatin
 - pea protein
-- magne
+- magnesium
+- 
