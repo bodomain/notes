@@ -2,4 +2,5 @@
 - creatin
 - pea protein
 - magnesium
-- 
+- Lochverstärker
+- Kulies schwarz
