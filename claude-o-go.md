@@ -1,3 +1,6 @@
+# Start
+export OPENCODE_GO_MODEL="qwen3.7-plus"
+# Welches Model benuzte ich?
 Ja, das geht – aber nicht direkt über das, was Claude Code selbst anzeigt. Die CLI kennt nämlich nur den Alias, mit dem sie gestartet wurde (sonnet); das echte Modell kennt nur der Proxy.
 Warum /status „Sonnet“ zeigt
 Claude Code ist nur das Harness. Es schickt model: sonnet an 127.0.0.1:4141, und erst der Proxy ersetzt das durch qwen3.7-plus. Deshalb zeigt /status „Sonnet 5.5“ – das ist kein Fehler.
@@ -23,3 +26,5 @@ Was nicht funktioniert
 - Das Modell selbst fragen („Welches Modell bist du?“) – unzuverlässig, weil der System-Prompt es als Claude anspricht.
 - echo "$OPENCODE_GO_MODEL" – zeigt nur die Konfiguration, nicht was eine laufende Session wirklich sendet.
 Ich habe das jetzt auch als Abschnitt „Checking the actual model“ in der README.md dokumentiert. Wenn du möchtest, kann ich zusätzlich eine Statuszeile einrichten, die dir das echte Modell dauerhaft unten in der Claude-Code-TUI anzeigt – das wäre die komfortabelste Variante.
+
+
