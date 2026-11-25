@@ -1,7 +1,8 @@
 - marker
-- creatin
+- creatin   c
+- zink
 - blätter karo/drucker
 - pea protein
-- magnesium
+- magnesium 
 - Lochverstärker
 - Kulies schwarz
