@@ -1,6 +1,6 @@
 - marker
 - creatin   c
-- zink
+- **zink**
 - blätter karo/drucker
 - pea protein
 - magnesium 
